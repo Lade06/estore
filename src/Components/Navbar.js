@@ -6,9 +6,9 @@ const Navbar = () => {
       <nav className="navbar bg-primary">
         <div className="container-fluid">
           <h1 className="navbar-brand">Ladeh Delicacies</h1>
-          <a className="navbar-brand">Home</a>
-          <a className="navbar-brand">Products</a>
-          <a className="navbar-brand">Services</a>
+          <a className="navbar-brand" href="/">Home</a>
+          <a className="navbar-brand" href="/">Products</a>
+          <a className="navbar-brand" href="/">Services</a>
         
           {/* <a className="nav-link" href="#">Features</a>
           <a className="nav-link" href="#">Features</a>
