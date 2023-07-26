@@ -16,3 +16,28 @@ ul li a{
   /* border-radius: 10px; */
   margin-bottom: 10px;
 }
+.mapouter {
+  position: relative;
+  text-align: right;
+  width: 600px;
+  height: 400px;
+}
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  width: 600px;
+  height: 400px;
+}
+.gmap_iframe {
+  width: 600px !important;
+  height: 400px !important;
+}
+.formap{
+  
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+#txtArea {
+  min-width: 100%;
+  min-height: 9em;
+}

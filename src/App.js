@@ -4,6 +4,7 @@ import './App.css';
 import Navbar from './Components/Navbar';
 import Store from './Components/Contents';
 import Footer from './Components/Footer';
+import Form from './Components/contactform';
 
 
 
@@ -12,7 +13,9 @@ function App() {
     <div>
 <Navbar />
 <Store />
+<Form />
 <Footer />
+{/* <App /> */}
     </div>
   );
 }

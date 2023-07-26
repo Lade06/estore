@@ -5,7 +5,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar bg-primary">
         <div className="container-fluid">
-          <h1 className="navbar-brand">Ladeh Delicacies</h1>
+          <h1>LADEH DELICACIES</h1>
           <a className="navbar-brand" href="/">Home</a>
           <a className="navbar-brand" href="/">Products</a>
           <a className="navbar-brand" href="/">Services</a>
